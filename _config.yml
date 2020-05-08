@@ -151,13 +151,13 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/koerper"
     - label: "Google Scholar"
-      icon: "ai fa-fw ai-google-scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=Bb5aTzAAAAAJ&hl=en"
     - label: "OrcID"
-      icon: "ai fa-fw ai-orcid"
+      icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0003-0346-0371"  
     - label: "ResearchGate"
-      icon: "ai fa-fw ai-researchgate"
+      icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Tim_Wuerger"
 
 
