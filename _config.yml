@@ -295,7 +295,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   # _pages
@@ -305,3 +305,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _cv
+  - scope:
+    path: ""
+    type: pages    
+  values:
+    layout: cv  
+    author_profile: true
+    markdown:   kramdown
+    style:  kjhealy
