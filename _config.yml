@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : "light" # "light" (default), "dark"
   utterances:
-    theme                : "github-dark" # "github-light" (default), "github-dark"
+    theme                : "github-light" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Tim Würger"
-  avatar           : "/assets/images/snowtim.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/tim_profile3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research assistant in the field of atomistic simulations"
   location         : "Hamburg, Germany"
   email            :
@@ -116,43 +116,49 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:wuerger90@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/wim_tuerger"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/tim-wuerger/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/koerper"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "ai fa-fw ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=Bb5aTzAAAAAJ&hl=en"
+    - label: "OrcID"
+      icon: "ai fa-fw ai-orcid"
+      url: "https://orcid.org/0000-0003-0346-0371"  
+    - label: "ResearchGate"
+      icon: "ai fa-fw ai-researchgate"
+      url: "https://www.researchgate.net/profile/Tim_Wuerger"
 
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:wuerger90@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/wim_tuerger"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/tim-wuerger/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/koerper"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Google Scholar"
+      icon: "ai fa-fw ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=Bb5aTzAAAAAJ&hl=en"
+    - label: "OrcID"
+      icon: "ai fa-fw ai-orcid"
+      url: "https://orcid.org/0000-0003-0346-0371"  
+    - label: "ResearchGate"
+      icon: "ai fa-fw ai-researchgate"
+      url: "https://www.researchgate.net/profile/Tim_Wuerger"
 
 
 # Reading Files
