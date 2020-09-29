@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Tim Würger"
-  avatar           : "/assets/images/tim_profile3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/tim_bw_sq_small.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Materials Science <br /> Machine Learning "
   location         : "Hamburg, Germany"
   email            :
