@@ -20,13 +20,13 @@ title                    : ""
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tim Würger"
-description              : "The life of Tim."
+description              : "The Life of Tim."
 url                      : "https://koerper.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "  " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "The Life of Tim." # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -153,9 +153,9 @@ footer:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=Bb5aTzAAAAAJ&hl=en"
-    - label: "OrcID"
-      icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0003-0346-0371"  
+    # - label: "OrcID"
+    #   icon: "ai ai-orcid"
+    #   url: "https://orcid.org/0000-0003-0346-0371"  
     - label: "ResearchGate"
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Tim_Wuerger"
@@ -298,7 +298,7 @@ defaults:
       comments: true
       share: true
       related: true
-      title: "Your Post Title"
+      title: ""
   # _pages
   - scope:
       path: ""
@@ -306,4 +306,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-      title: "Your Page Title"
+      title: ""
