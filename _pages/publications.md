@@ -5,4 +5,4 @@ permalink: /publications/
 classes: wide
 ---
 
- <script src="https://bibbase.org/service/mendeley/4c460743-0edf-3981-832d-31faccbef30e?jsonp=1&css=https://raw.githubusercontent.com/koerper/koerper.github.io/master/assets/css/bibbase.css"></script> 
+ <script src="https://bibbase.org/service/mendeley/4c460743-0edf-3981-832d-31faccbef30e?jsonp=1&theme=dividers"></script> 
