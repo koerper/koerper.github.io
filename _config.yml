@@ -306,4 +306,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-      title: "Your Post Title"
+      title: "Your Page Title"
