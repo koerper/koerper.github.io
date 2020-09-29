@@ -288,16 +288,17 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-      # related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      title: "Your Post Title"
   # _pages
   - scope:
       path: ""
@@ -305,12 +306,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _cv
-  - scope:
-    path: ""
-    type: pages    
-  values:
-    layout: cv  
-    author_profile: true
-    markdown:   kramdown
-    style:  kjhealy
+      title: "Your Post Title"
