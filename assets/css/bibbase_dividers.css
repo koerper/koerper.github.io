@@ -104,7 +104,11 @@ img.bibbase_icon:hover {
 
 .groupby_dropdown {
     display: none;
-  }
+}
+
+.menu_dropdown {
+    display: none;
+}
 
 .recommended {
     color: green;
