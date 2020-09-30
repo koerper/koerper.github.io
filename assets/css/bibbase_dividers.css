@@ -5,6 +5,7 @@
 
 #bibbase_header a {
     text-decoration: none;
+    display: none;
 }
 
 #bibbase_header i {

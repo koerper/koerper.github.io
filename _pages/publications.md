@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 classes: wide
 ---
-<link href="/assets/css/bibbase_dividers.css" rel="stylesheet">
 
- <script src="https://bibbase.org/service/mendeley/4c460743-0edf-3981-832d-31faccbef30e?jsonp=1&theme=dividers"></script> 
+ <script src="https://bibbase.org/service/mendeley/4c460743-0edf-3981-832d-31faccbef30e?jsonp=1"></script> 
+
+ <link href="/assets/css/bibbase_dividers.css" rel="stylesheet">
