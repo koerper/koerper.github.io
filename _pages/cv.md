@@ -91,9 +91,3 @@ Last updated: May 2013 -->
 
 
 
-
-# ---
-# layout: single
-# title: CV
-# permalink: /cv/
-# ---
