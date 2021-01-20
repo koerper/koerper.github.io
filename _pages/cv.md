@@ -1,16 +1,15 @@
 ---
 layout: cv
-title: Resume
+title: CV
 permalink: /cv/
 author_profile: true
 ---
 
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tim Würger
+Computational Materials Science | PhD student.  
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tim.wuerger@tuhh.de">tim.wuerger@tuhh.de</a>
 </div>
 
 
