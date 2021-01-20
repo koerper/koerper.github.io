@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: single
 title: CV
 permalink: /cv/
 classes: wide
