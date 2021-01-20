@@ -8,7 +8,7 @@ classes: wide
 <link href="/assets/css/davewhipp-screen.css" rel="stylesheet">
 
 # Tim Würger
-Computational Materials Science | PhD student.  
+PhD student, Hamburg University of Technology  
 
 <div id="webaddress">
 <a href="tim.wuerger@tuhh.de">tim.wuerger@tuhh.de</a>
@@ -17,7 +17,7 @@ Computational Materials Science | PhD student.
 
 ## Currently
 
-Standing on the shoulders of giants
+
 
 ### Specialized in
 
