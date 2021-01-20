@@ -1,7 +1,9 @@
 ---
-layout: single
+layout: cv
 title: CV
 permalink: /cv/
+style: davewhipp
+classes: wide
 ---
 
 # Tim Würger
