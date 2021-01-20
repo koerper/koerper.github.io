@@ -13,7 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
-   sodipodi:docname="tw.svg">
+   sodipodi:docname="tw.svg"
+   inkscape:export-filename="/home/tim/workspace/koerper.github.io/assets/images/tw_88x88.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -63,9 +66,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.557898"
-     inkscape:cx="-84.925469"
-     inkscape:cy="160.51652"
+     inkscape:zoom="8.8492141"
+     inkscape:cx="-94.924167"
+     inkscape:cy="161.53448"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -85,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,7 +117,7 @@
          id="path832"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:0.283478;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:0.52916667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m -25.374742,41.730029 1.078095,2.680876 1.061263,-1.319767 1.094928,1.319767 1.078095,-2.692904"
          id="path836"
          sodipodi:nodetypes="ccccc" />
