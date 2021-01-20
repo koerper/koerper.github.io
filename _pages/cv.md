@@ -1,10 +1,11 @@
 ---
-layout: single
+layout: cv
 title: CV
 permalink: /cv/
 classes: wide
 ---
 
+<title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
 <link href="/assets/css/davewhipp-screen.css" rel="stylesheet">
 
 # Tim Würger
