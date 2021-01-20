@@ -1,11 +1,7 @@
 ---
-layout: cv
+layout: single
 title: CV
 permalink: /cv/
-author_profile: true
-sass:
-    sass_dir: _sass
-    style: davewhipp
 ---
 
 # Tim Würger
