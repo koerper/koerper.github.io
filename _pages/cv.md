@@ -1,8 +1,7 @@
 ---
-layout: cv
+layout: single
 title: CV
 permalink: /cv/
-style: davewhipp
 classes: wide
 ---
 
