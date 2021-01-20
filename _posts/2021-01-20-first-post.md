@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "My first post"
+title:  "Latest publication"
+header: 
+    teaser: /assets/images/smap_cover.png
 ---
 
 # Welcome
