@@ -56,7 +56,7 @@
       <path
          id="lpe_path-effect876"
          class="powerclip"
-         d="m -31.948176,33.888871 h 17.459249 v 17.45925 h -17.459249 z m 12.098811,8.408977 v 0.789912 h 0.371058 v -0.789912 z m -7.117348,0 v 0.789912 h 0.329111 v -0.789912 z" />
+         d="m -31.948158,33.888889 h 17.459213 v 17.459214 h -17.459213 z m 12.098793,8.408959 v 0.789912 h 0.371058 v -0.789912 z m -7.117348,0 v 0.789912 h 0.329111 v -0.789912 z" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -66,11 +66,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.0206775"
-     inkscape:cx="-33.966756"
-     inkscape:cy="132.70601"
+     inkscape:zoom="23.175889"
+     inkscape:cx="-87.081834"
+     inkscape:cy="165.7996"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g884"
      inkscape:document-rotation="0"
      showgrid="false"
      showborder="false"
@@ -100,32 +100,35 @@
        id="g884"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <ellipse
-         style="fill:none;stroke:#000000;stroke-width:0.28336875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="path830"
-         clip-path="url(#clipPath868)"
-         inkscape:path-effect="#path-effect876"
-         sodipodi:type="arc"
-         sodipodi:cx="-23.218552"
-         sodipodi:cy="42.618496"
-         sodipodi:rx="3.5879223"
-         sodipodi:ry="3.5879223"
-         d="m -19.630629,42.618496 a 3.5879223,3.5879223 0 0 1 -3.587923,3.587922 3.5879223,3.5879223 0 0 1 -3.587922,-3.587922 3.5879223,3.5879223 0 0 1 3.587922,-3.587922 3.5879223,3.5879223 0 0 1 3.587923,3.587922 z" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916667;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -25.741973,40.826048 h 5.046842"
-         id="path832"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:0.52899997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -25.374742,41.730029 1.078095,2.680876 1.061263,-1.319767 1.094928,1.319767 1.078095,-2.692904"
-         id="path836"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916667;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -23.218552,40.828202 v 3.582703"
-         id="path834"
-         sodipodi:nodetypes="cc" />
+      <g
+         id="g845">
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.28336875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+           id="path830"
+           clip-path="url(#clipPath868)"
+           inkscape:path-effect="#path-effect876"
+           sodipodi:type="arc"
+           sodipodi:cx="-23.218552"
+           sodipodi:cy="42.618496"
+           sodipodi:rx="3.5879223"
+           sodipodi:ry="3.5879223"
+           d="m -19.630629,42.618496 a 3.5879223,3.5879223 0 0 1 -3.587923,3.587922 3.5879223,3.5879223 0 0 1 -3.587922,-3.587922 3.5879223,3.5879223 0 0 1 3.587922,-3.587922 3.5879223,3.5879223 0 0 1 3.587923,3.587922 z" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916667;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -25.741973,40.826048 h 5.046842"
+           id="path832"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:0.529;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -25.374742,41.730029 1.078095,2.680876 1.061263,-1.791351 1.094928,1.791351 1.078095,-2.692904"
+           id="path836"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -23.218552,40.828202 v 1.791352 1.791351"
+           id="path834"
+           sodipodi:nodetypes="ccc" />
+      </g>
     </g>
   </g>
 </svg>
