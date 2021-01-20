@@ -6,6 +6,8 @@ style: davewhipp
 classes: wide
 ---
 
+<link href="/assets/css/davewhipp-screen.css" rel="stylesheet">
+
 # Tim Würger
 Computational Materials Science | PhD student.  
 
