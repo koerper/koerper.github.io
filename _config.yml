@@ -308,5 +308,4 @@ defaults:
       author_profile: true
       title: ""
 
-markdown:   kramdown
-style:  kjhealy
+
