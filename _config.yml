@@ -307,3 +307,6 @@ defaults:
       layout: single
       author_profile: true
       title: ""
+
+markdown:   kramdown
+style:  kjhealy
