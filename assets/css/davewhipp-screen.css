@@ -88,15 +88,15 @@ p code {
 	right: -20%;
 }
 
-/*
+
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 0%;
+	width: 0%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
-*/
+
 
 /*uncomment to get dashes in the list*/
 /*li:before {
