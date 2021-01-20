@@ -1,9 +1,10 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Resume
 permalink: /cv/
 author_profile: true
 ---
+
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 
