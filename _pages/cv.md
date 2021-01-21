@@ -37,7 +37,8 @@ Max-Planck-Str. 1<br/>
 **B.Sc., Mechanical Engineering**, *Hamburg University of Technology*, Hamburg, Germany.
 
 ## Experience
-
+`2018-present`
+**Research Assistant**, *Helmholtz-Zentrum Geesthacht*, Geesthacht, Germany.
 
 
 
