@@ -3,7 +3,7 @@ p {
 	left: 0%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	width: 70%;
 }
 
 
@@ -18,7 +18,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -30%;
 }
 
 h1,h2,h3,h4 {
@@ -44,11 +44,10 @@ h2 {
 	font-size: 1.1em;
 	color: #bc412b;
 	margin-top: 3em;
-	position: absolute;
-	top: 1.4em;
-	text-align: right;
+	position: relative;
+	text-align: left;
 	width: 20%;
-	left: -20%;
+	left: 0%;
 }
 
 h3 {
