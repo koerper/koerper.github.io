@@ -61,6 +61,8 @@ Max-Planck-Str. 1<br/>
 
 **T. Würger**, C. Feiler, G. B. V. Feldbauer, M. L. Zheludkevich, R. H. Meißner. A first-principles analysis of the charge transfer in magnesium corrosion. *Scientific Reports* **10** 15006 (2020). doi: [10.1038/s41598-020-71694-4](https://doi.org/10.1038/s41598-020-71694-4)
 
+ **T. Würger**, C. Feiler, F. Musil, G. B. V. Feldbauer, D. Höche, S Lamaka, M. L. Zheludkevich and Robert H. Meißner. Data Science Based Mg Corrosion Engineering. *Frontiers in Materials*, **6** 53 (2019). doi: [10.3389/fmats.2019.00053](https://doi.org/10.3389/fmats.2019.00053)
+
 ## Awards
 
 
