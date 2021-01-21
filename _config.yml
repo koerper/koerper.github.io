@@ -141,12 +141,6 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:wuerger90@gmail.com
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/wim_tuerger"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tim-wuerger/"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/koerper"
