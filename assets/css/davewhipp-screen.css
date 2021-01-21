@@ -26,15 +26,19 @@ time, mark, audio, video {
 }
 */
 
-/* HTML5 display-role reset for older browsers*/
+/* HTML5 display-role reset for older browsers
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+*/
 
+/*
 body {
 	line-height: 1;
 }
+*/
+
 ol, ul {
 	list-style: none;
 }
@@ -88,6 +92,7 @@ p code {
 }
 
 
+/*
 ul { 
 	position: relative;
 	left: 0%;
@@ -95,6 +100,7 @@ ul {
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
+*/
 
 /*uncomment to get dashes in the list*/
 /*li:before {
