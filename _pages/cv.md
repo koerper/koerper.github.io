@@ -2,6 +2,7 @@
 layout: cv
 title: CV
 permalink: /cv/
+class: wide
 ---
 
 # Tim Würger
