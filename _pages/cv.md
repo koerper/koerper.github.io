@@ -12,7 +12,7 @@ Institute of Surface Science, Department of Interface Modelling<br/>
 Max-Planck-Str. 1<br/>
 21502 Geesthacht, Germany<br/>
 
-<a href="tim.wuerger@hzg.de">tim.wuerger@hzg.de</a> - +49 (040) 42878 3412
+<a href="mailto:tim.wuerger@hzg.de">tim.wuerger@hzg.de</a> - +49 (040) 42878 3412
 
 <div id="webaddress">
   <a href="https://twuerger.com"><i class="fas fa-home"></i></a> 
