@@ -3,6 +3,31 @@
    License: none (public domain)
 */
 
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
 body {
 	line-height: 1;
 }
@@ -32,16 +57,16 @@ body {
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 0em;
-	margin-left: 0em;
+	margin-top: 1em;
+	margin-left: 1em;
 }
 
 p {
 	position: relative;
-	left: 0%;
+	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 75%;
+	width: 55%;
 }
 
 code {
@@ -61,10 +86,10 @@ p code {
 
 ul { 
 	position: relative;
-	left: 0%;
+	left: 25%;
 	width: 75%;
-	margin-bottom: 0em;
-	margin-top: 0em;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -74,7 +99,19 @@ ul {
 	left: -0.25em;
 }*/
 
+li {
+	/*second line indent*/
+	padding-left: 1.25em;
+	text-indent: -1.25em;
+	/*color: #777;*/
+}
 
+li ul {
+	position: relative;
+	left: 0;
+	width: 100%;
+	margin-top: 0.25em;
+}
 
 h1,h2,h3,h4 {
 	font-weight: 400;
