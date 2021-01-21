@@ -38,7 +38,7 @@ Max-Planck-Str. 1<br/>
 
 ## Experience
 `2018-present`
-**Research Assistant**, *Helmholtz-Zentrum Geesthacht*, Geesthacht, Germany .
+**Research Assistant**, *Helmholtz-Zentrum Geesthacht*, Geesthacht, Germany.
 
 
 
