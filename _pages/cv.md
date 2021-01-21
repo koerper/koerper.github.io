@@ -2,7 +2,6 @@
 layout: cv
 title: CV
 permalink: /cv/
-classes: wide
 ---
 
 <link href="/assets/css/davewhipp-screen.css" rel="stylesheet">
