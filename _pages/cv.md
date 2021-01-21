@@ -3,8 +3,8 @@ layout: cv
 title: CV
 permalink: /cv/
 ---
-
-<link href="/assets/css/davewhipp-screen.css" rel="stylesheet">
+<!-- 
+<link href="/assets/css/davewhipp-screen.css" rel="stylesheet"> -->
 
 # Tim Würger
 PhD student, Helmholtz-Zentrum Geesthacht  
