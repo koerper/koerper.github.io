@@ -34,3 +34,28 @@ h1 {
 	position: relative;
 	left: 25%;
 }
+
+h1+p { 
+	/*subtitle*/
+	font-style: italic;
+	font-size: 110%;
+}
+
+h2 {
+	font-size: 1.1em;
+	color: #bc412b;
+	margin-top: 3em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+}
+
+h3 {
+	font-size: 1em;
+	line-height: 2em; 
+	position: relative;
+	top: 1.7em;
+	text-align: right;
+	width: 20%;
+}
