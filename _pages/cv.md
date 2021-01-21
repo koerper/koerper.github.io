@@ -33,6 +33,9 @@ Max-Planck-Str. 1<br/>
 `2014-2018`
 **M.Sc., Medical Engineering**, *Hamburg University of Technology*, Hamburg, Germany.
 
+`2015-2016`
+**Exchange Semester, Design of Mechanical Systems**, *Aalborg Universitet*, Aalborg, Denmark.
+
 `2010-2014`
 **B.Sc., Mechanical Engineering**, *Hamburg University of Technology*, Hamburg, Germany.
 
@@ -40,7 +43,14 @@ Max-Planck-Str. 1<br/>
 `2018-present`
 **Research Assistant**, *Helmholtz-Zentrum Geesthacht*, Geesthacht, Germany.
 
+`2014-2018`
+**Student Research Assistant**, *Hamburg University of Technology*, Hamburg, Germany.
 
+`2016`
+**Research Assistant**, *Universidade Federal de Santa Catarina*, Florianópolis, Brazil.
+
+`2014`
+**Student Intern**, *MGT Air Filters*, Istanbul, Turkey.
 
 
 ## Publications
