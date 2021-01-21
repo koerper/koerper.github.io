@@ -28,6 +28,11 @@ Max-Planck-Str. 1<br/>
 `2018-present`
 **Ph.D., Computational Materials Science**, *Hamburg University of Technology*, Hamburg, Germany.
 
+`2014-2018`
+**M.Sc., Medical Engineering**, *Hamburg University of Technology*, Hamburg, Germany.
+
+`2010-2014`
+**B.Sc., Mechanical Engineering**, *Hamburg University of Technology*, Hamburg, Germany.
 
 ## Experience
 
