@@ -38,10 +38,10 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
+	left: 0%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 75%;
 }
 
 code {
@@ -61,7 +61,7 @@ p code {
 
 ul { 
 	position: relative;
-	left: 25%;
+	left: 0%;
 	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
