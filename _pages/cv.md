@@ -65,7 +65,8 @@ Max-Planck-Str. 1<br/>
 
 ## Awards
 
-
+`2019`
+Winner of the poster prize at the 708. WE-Heraeus-Seminar *Operando surface science – Atomistic insights into electrified solid/liquid interfaces*
 
 
 
