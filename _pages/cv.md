@@ -24,7 +24,6 @@ Max-Planck-Str. 1<br/>
 </div>
 
 
-
 ## Education
 `2018-present`
 **Ph.D., Computational Materials Science**, *Hamburg University of Technology*, Hamburg, Germany.
