@@ -18,6 +18,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
+	right: -20%;
 }
 
 h1,h2,h3,h4 {
