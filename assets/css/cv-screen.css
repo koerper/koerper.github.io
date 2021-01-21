@@ -3,7 +3,7 @@ p {
 	left: 0%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 70%;
+	width: 80%;
 }
 
 
@@ -18,7 +18,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -30%;
+	right: -50%;
 }
 
 h1,h2,h3,h4 {
