@@ -13,9 +13,9 @@ excerpt: "An overview of my current smaller and larger projects.
 feature_row:
   - image_path: assets/images/smap_cover.png
     alt: "ExChem"
-    title: "ExChem"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "Structure-Property Relationships in Magnesium Dissolution Modulators"
+    excerpt: "The combination of molecular structure similarities with machine learning methods allows the development of predictive models in the field of corrosion inhibition."
+    url: /projects/structure-property-relationships
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
