@@ -55,7 +55,7 @@ Max-Planck-Str. 1<br/>
 
 ## Publications
 
-*Full publication list is available [here](https://twuerger.com/publications/) and [in Google Scholar](https://scholar.google.com/citations?user=Bb5aTzAAAAAJ&hl=en).*
+*List of selected publications. Full publication list is available [here](https://twuerger.com/publications/) and [in Google Scholar](https://scholar.google.com/citations?user=Bb5aTzAAAAAJ&hl=en).*
 
 **T. Würger**, D. Mei, B. Vaghefinazari, D. A. Winkler, S. V. Lamaka, M. L. Zheludkevich, R. H. Meißner, and C. Feiler. Exploring structure-property relationships in magnesium dissolution modulators. *npj Materials Degradation*, **5** 2 (2021). doi: [10.1038/s41529-020-00148-z](https://doi.org/10.1038/s41529-020-00148-z)
 
