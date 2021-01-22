@@ -18,6 +18,13 @@ feature_row:
     url: /projects/structure-property-relationships
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: assets/images/TOC.png
+    alt: "mg charge"
+    title: "A Closer Look at the Charge Evolution in Magnesium Corrosion"
+    excerpt: "Despite decades of research, there still remain open questions in the field of magnesium corrosion."
+    url: /projects/charge-evolution
+    btn_label: "Read More"
+    btn_class: "btn--primary"    
 ---
 
 
