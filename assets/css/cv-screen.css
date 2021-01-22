@@ -3,7 +3,7 @@ p {
 	left: 0%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 80%;
+	width: 70%;
 }
 
 
@@ -24,7 +24,7 @@ p code {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 65%;
+	width: 80%;
 }
 
 h1 {
