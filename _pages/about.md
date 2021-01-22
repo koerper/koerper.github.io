@@ -3,7 +3,7 @@ layout: single
 title: About
 permalink: /about/
 header:
-    image: /assets/images/unsplash_lines.jpg
+    image: /assets/images/unsplash_lines.png
     caption: "Photo credit: [**Unsplash**](https://unsplash.com/@adrienconverse)"
 ---
 
