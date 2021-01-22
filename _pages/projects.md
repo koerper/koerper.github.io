@@ -6,8 +6,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash_molecule.jpg
-  caption: "Photo credit: [**Terry Vlisidis | Unsplash**](https://unsplash.com/@vlisidis)"
-excerpt: "An overview of my current smaller and larger projects."
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/@vlisidis)"
+excerpt: "An overview of my current smaller and larger projects.
+
+"
 feature_row:
   - image_path: assets/images/smap_cover.png
     alt: "ExChem"
